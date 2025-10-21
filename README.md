@@ -1,8 +1,11 @@
 # Coffee Shop Landing Page 🌱  
 *A responsive, mobile-first coffee landing page built with HTML, CSS, and vanilla JavaScript.*  
 
-**Live Demo**: [View Here](#) | **Portfolio**: [MySite.com](#)  
-![Desktop Preview]([./screenshots/desktop-preview.png](https://res.cloudinary.com/druqzyg13/image/upload/v1761056134/my_new_portfolio/Project/coffee/Screenshot_7_uh7jrv.png)) <!-- Add screenshot -->
+**Live Demo**: [your-coffee-site.netlify.app](https://coffee-keem-shop.netlify.app/) | **Portfolio**: [Case Study on MySite.com](https://www.keematics.com)  
+## 📱 Screenshots  
+### Desktop  
+![Desktop Preview]([https://res.cloudinary.com/your-cloudinary-cloud/image/upload/v1/your-desktop.jpg](https://res.cloudinary.com/druqzyg13/image/upload/v1761056134/my_new_portfolio/Project/coffee/Screenshot_7_uh7jrv.png)  
+
 
 ## ✨ Features  
 ✔ **Hero Carousel**: Dynamic banner with fade transitions (JavaScript).  
@@ -20,4 +23,11 @@
 ## 🚀 Getting Started  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/coffee-landing-page.git
+   git clone https://github.com/Keematics/coffee-shop.git
+
+📝 Notes
+- **BEM Methodology**: CSS classes follow Block-Element-Modifier pattern.
+- **Mobile-First**: Media queries for min-width: 768px (tablet/desktop).
+- **No Frameworks**: Pure vanilla JS (no React/jQuery).
+🤝 Feedback
+Found an issue or have a suggestion? Open an issue or reach out on Twitter!
