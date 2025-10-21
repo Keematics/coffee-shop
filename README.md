@@ -1,7 +1,7 @@
 # Coffee Shop Landing Page 🌱  
 *A responsive, mobile-first coffee landing page built with HTML, CSS, and vanilla JavaScript.*  
 
-**Live Demo**: [your-coffee-site.netlify.app](https://coffee-keem-shop.netlify.app/) | **Portfolio**: [Case Study on MySite.com](https://www.keematics.com)  
+**Live Demo**: [coffee-shop](https://coffee-keem-shop.netlify.app/) | **Portfolio**: [Case Study On My Portflio](https://www.keematics.com)  
 ## 📱 Screenshots  
 ### Desktop  
 ![Desktop Preview]([https://res.cloudinary.com/your-cloudinary-cloud/image/upload/v1/your-desktop.jpg](https://res.cloudinary.com/druqzyg13/image/upload/v1761056134/my_new_portfolio/Project/coffee/Screenshot_7_uh7jrv.png)  
